@@ -1,3 +1,11 @@
-theme: jekyll-theme-minima
-title: test
-description: test2
+title: site super fonctionnel
+description: aucune description, tu verras bien
+url: "https://ciluuu.github.io"
+
+remote_theme: null
+
+markdown: kramdown
+permalink: /:title/
+
+plugins:
+  - jekyll-feed

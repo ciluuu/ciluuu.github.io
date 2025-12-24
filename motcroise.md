@@ -357,7 +357,7 @@ document.getElementById('checkButton').onclick=()=>{
         setTimeout(()=>location.href='/sudoku/',1500);
     } else { 
         fb.className='wrong'; 
-        fb.textContent="au moins un mot est incorrect"; 
+        fb.textContent="tu n'as pas encore fini hihi"; 
     }
 };
 </script>

@@ -148,7 +148,7 @@ const resultDiv = document.getElementById('result');
 const segments = [
     { text: 'relance', gift: 'le droit de relancer la roue', color: '#eb2cbb', action: 'retry' },
     { text: 'c\est ok', gift: 'un sudoku', color: '#ae57ffff', action: 'sudoku' },
-    { text: 'relance', gift: 'le droit de relancer la roue', color: '#eb2cbb', action: 'retry' },
+    { text: 'indice', gift: 'un indice', color: '#fd70f4', action: 'retry' },
     { text: 'force', gift: 'un sudoku super dur', color: '#e80074ff', action: 'death' },
     { text: 'indice', gift: 'un indice', color: '#fd70f4', action: 'retry' },
     { text: 'c\'est ok', gift: 'un sudoku', color: '#ae57ffff', action: 'sudoku' }

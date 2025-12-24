@@ -205,7 +205,7 @@ function spin() {
     resultDiv.textContent = '';
     spinButton.disabled = true;
 
-    const spinTime = 3000 + Math.random() * 3000;
+    const spinTime = 3000 + Math.random() * 2500;
     const spinAngle = 10 + Math.random() * 10;
     const startTime = Date.now();
 
